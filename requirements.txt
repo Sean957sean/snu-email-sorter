@@ -1,0 +1,2 @@
+# 외부 라이브러리 없음 — Python 표준 라이브러리만 사용
+# imaplib, email, getpass, re, collections 모두 내장

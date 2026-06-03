@@ -7,8 +7,8 @@ Gmail API 없이 IMAP 표준 프로토콜로 동작합니다.
 
 import sys
 import argparse
-from auth import prompt_credentials, connect_imap
-from sorter import sort_inbox
+from src.auth import prompt_credentials, connect_imap
+from src.sorter import sort_inbox
 
 
 def prompt_mail_count() -> int:
